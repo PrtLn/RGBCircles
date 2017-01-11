@@ -1,0 +1,1 @@
+Training of simple game "Colored Circles" for Android Application
