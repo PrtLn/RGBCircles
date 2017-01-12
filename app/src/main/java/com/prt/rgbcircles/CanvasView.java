@@ -80,4 +80,9 @@ public class CanvasView extends View implements ICanvasView {
         invalidate();
         return true;
     }
+
+    // TODO: create method that calculates radius of circles depending of size screen
+//    public static int recalculateRadius(int radius) {
+//        return radius * 768 / width < height ? width : height;
+//    }
 }
