@@ -24,7 +24,6 @@ public class SimpleCircle {
         return radius;
     }
 
-
     public int getColor() {
         return color;
     }
